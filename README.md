@@ -1,7 +1,7 @@
 # e-commerce system
 
 CONSOLE OUTPUT
-*** Checkout ***
+"*** Checkout ***
 
 
 ** Shipment notice **
@@ -24,7 +24,7 @@ Error: Cart is empty
 Error: You have not enough money
 error: Specified argument was out of the range of valid values. (Parameter 'there is only 8 from this product')
 
-*** Thank you to using my shop ***
+*** Thank you to using my shop ***"
 
 
 
